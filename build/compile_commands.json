@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/kitkat4/ws/image_feature_tester/build",
+  "command": "/usr/bin/g++-7  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I../include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/opencv  -g   -fPIC -std=gnu++11 -o CMakeFiles/image_feature_tester.dir/src/image_feature_tester_main.cpp.o -c /home/kitkat4/ws/image_feature_tester/src/image_feature_tester_main.cpp",
+  "file": "/home/kitkat4/ws/image_feature_tester/src/image_feature_tester_main.cpp"
+}
+]
